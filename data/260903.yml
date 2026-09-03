@@ -1,11 +1,13 @@
 about:
-  description: A configuration file validator for Kubernetes.
+  description:
+  |
+    A configuration file validator for Kubernetes.
   license: Apache-2.0
   homepage: https://help.cloud66.com/copper/
   head: 4c7f465
   archived: false
   latestVersion: 2.0.1
-  collectedAt: 2026-09-03T05:13:00Z
+  collectedAt: 2026-09-03T22:37:39Z
 timeline:
   created: 2018-03-20
   lastCommit: 2020-06-23
@@ -22,7 +24,7 @@ language:
   JavaScript: 9459
   Go: 8184
   Shell: 1051
-totalLine: 18694
+totalBytes: 18694
 recent:
   last30d:
     since: 2026-08-04
